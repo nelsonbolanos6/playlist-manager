@@ -1,2 +1,1 @@
-# playlist-manager
-A menu-driven Python playlist manager with search, sorting, file storage, and modular code structure.
+A simple Python project for building and managing a local music playlist using a text-based menu. The program lets you add songs, remove songs, sort your playlist, search by keyword, and save/load tracks using a plain .txt file.
